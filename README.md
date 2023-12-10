@@ -1,4 +1,4 @@
-# ULTR Bias - Personal toolkit for position bias estimation in unbiased learning to rank
+# Clix - Personal toolkit for unbiased learning to rank
 
 ## Offline bias estimation methods
 We implement multiple offline position bias estimation methods, including [three intervention harvesting](https://arxiv.org/abs/1812.05161) approaches:
