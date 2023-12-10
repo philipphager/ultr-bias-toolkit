@@ -1,4 +1,4 @@
-# Clix - Personal toolkit for unbiased learning to rank
+# Personal toolkit for bias estimation in unbiased learning to rank
 
 ## Offline bias estimation methods
 We implement multiple offline position bias estimation methods, including [three intervention harvesting](https://arxiv.org/abs/1812.05161) approaches:
