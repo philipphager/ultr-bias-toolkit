@@ -2,9 +2,9 @@ import logging
 
 import pandas as pd
 
-from clix.bias.intervention_harvesting.util import build_intervention_sets
-from clix.bias.intervention_harvesting.util import normalize_bias
-from clix.util.assertions import assert_columns_in_df
+from ultr_bias_toolkit.bias.intervention_harvesting.util import build_intervention_sets
+from ultr_bias_toolkit.bias.intervention_harvesting.util import normalize_bias
+from ultr_bias_toolkit.util.assertions import assert_columns_in_df
 
 logger = logging.getLogger(__name__)
 
