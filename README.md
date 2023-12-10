@@ -1,5 +1,10 @@
 # Personal toolkit for bias estimation in unbiased learning to rank
 
+## Installation
+```
+pip install ultr-bias-toolkit
+```
+
 ## Offline bias estimation methods
 We implement multiple offline position bias estimation methods, including [three intervention harvesting](https://arxiv.org/abs/1812.05161) approaches:
 
