@@ -28,3 +28,6 @@ for name, estimator in estimators.items():
 examination_df = pd.concat(examination_dfs)
 examination_df.head()
 ```
+
+Example on the [Baidu ULTR dataset](https://huggingface.co/datasets/philipphager/baidu-ultr_baidu-base-12L):
+![baidu](https://github.com/philipphager/ultr-bias-toolkit/assets/9155371/d8cca083-9722-42eb-a051-8479153d809c)
