@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "clix"
-version = "0.0.1"
-description = "Toolkit for unbiased learning to rank"
+name = "ultr-bias-toolkit"
+version = "0.0.2"
+description = "Toolkit for bias estimation in unbiased learning to rank"
 authors = ["Philipp Hager <philipp.konstantin.hager@gmail.com>"]
 readme = "README.md"
 

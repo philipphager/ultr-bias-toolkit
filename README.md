@@ -4,8 +4,8 @@
 We implement multiple offline position bias estimation methods, including [three intervention harvesting](https://arxiv.org/abs/1812.05161) approaches:
 
 ```
-from clix.bias.naive import NaiveCtrEstimator
-from clix.bias.intervention_harvesting import PivotEstimator, AdjacentChainEstimator, AllPairsEstimator
+from ultr_bias_toolkit.bias.naive import NaiveCtrEstimator
+from ultr_bias_toolkit.bias.intervention_harvesting import PivotEstimator, AdjacentChainEstimator, AllPairsEstimator
 
 estimators = {
     "CTR Rate": NaiveCtrEstimator(),
